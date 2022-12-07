@@ -54,10 +54,10 @@
     },
     "footer": {
         "email": "arlindbajraktari1@icloud.com",
-        "facebook": "https://",
+        "facebook": "https://www.facebook.com/arlind.bajraktari.777",
         "linkedIn": "https://",
         "instagram": "https://",
         "whatsApp": "https://",
-        "copyWrite": "© All rights reserved to Ruvejda 2022"
+        "copyWrite": "© All rights reserved to Arlind Bajraktari"
     }
 }
