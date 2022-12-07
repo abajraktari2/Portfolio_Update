@@ -53,7 +53,7 @@
         "apiKey": "_BbxKljeiM1QrRIOF"
     },
     "footer": {
-        "email": "ruvejda@gmail.com",
+        "email": "arlindbajraktari1@icloud.com",
         "facebook": "https://",
         "linkedIn": "https://",
         "instagram": "https://",
