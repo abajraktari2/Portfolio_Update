@@ -30,7 +30,7 @@
             "img": "https://drive.google.com/uc?export=view&id=1enx9Pxvd2uSbwaYstEgvXibE1exGS4XP",
             "title": "TIC - TAC - TOE",
             "paragraph": "Programmed the Game using Java Swing-based GUI, Collection frameworks, File output and input using Java serialization and Unit tests (JUnit).",
-            "link": "https://drive.google.com/uc?export=view&id=1E1wJFnexAX74C7mhgrMtBwymCsm8m4r7/view?usp=share_link"
+            "link": "https://drive.google.com/file/d/1iBqmdYLSi6Tn3z9NuFRH8RcARYt5Jopy/view?usp=share_link"
         },
         {
             "img": "https://drive.google.com/uc?export=view&id=1k8_62yRHK2ZRyUcC-IllCkeO8IqGoXMd",
