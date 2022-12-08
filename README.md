@@ -6,7 +6,7 @@
         "p": "Computer Engineering Undergraduate"
     },
     "about": {
-        "img": "https://drive.google.com/uc?export=view&id=1BS9mZlSlplmaOHVebFdDdk47X6K7nWB-",
+        "img": "https://drive.google.com/uc?export=view&id=1xNmD2E0cWJDqzO-UkrToPqyOBpMPQ2C-",
         "p": "Student in Computer Science Engineering with extensive education in software engineering and programming. Fluent in English, with excellent communication and interpersonal skills. Fast learner and problem solver with analytical mindset. Strong ability to manage time with multi-tasking skills. Great work ethic in team or individual settings to achieve the desired goal. Above all, passionate, motivated, and hardworking",
         "facebookLink": "https://www.facebook.com/arlind.bajraktari.777/",
         "githubLink": "https://github.com/abajraktari2"
