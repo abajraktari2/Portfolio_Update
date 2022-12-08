@@ -1,6 +1,6 @@
 {
     "home": {
-        "img": "https://drive.google.com/uc?export=view&id=1gd8Iy8QzD1knp8sAw78bnoMopXlHUWlP",
+        "img": "https://drive.google.com/uc?export=view&id=1yCYGebbpE5gWiQJilNdXEGA-oB5U6E9r/view?usp=share_link",
         "title1": "Welcome",
         "title2": "Arlind Bajraktari",
         "p": "Computer Engineering Undergraduate"
@@ -8,11 +8,11 @@
     "about": {
         "img": "https://drive.google.com/uc?export=view&id=1BS9mZlSlplmaOHVebFdDdk47X6K7nWB-",
         "p": "Student in Computer Science Engineering with extensive education in software engineering and programming. Fluent in English, with excellent communication and interpersonal skills. Fast learner and problem solver with analytical mindset. Strong ability to manage time with multi-tasking skills. Great work ethic in team or individual settings to achieve the desired goal. Above all, passionate, motivated, and hardworking",
-        "facebookLink": "https://",
-        "githubLink": "https://"
+        "facebookLink": "https://www.facebook.com/arlind.bajraktari.777/",
+        "githubLink": "https://github.com/abajraktari2"
     },
     "experience": {
-        "img": "https://drive.google.com/uc?export=view&id=1gd8Iy8QzD1knp8sAw78bnoMopXlHUWlP",
+        "img": "https://drive.google.com/uc?export=view&id=1aCkrDvqWsuWfPcahfCy8KBe6O6yAdaiQ/view?usp=share_link",
         "head": "KPMG Global Services Hungary",
         "title": "Client Collaboration Solution Trainee",
         "time": "06/2022 - Current",
@@ -28,36 +28,36 @@
     "slider": [
         {
             "img": "https://drive.google.com/uc?export=view&id=1enx9Pxvd2uSbwaYstEgvXibE1exGS4XP",
-            "title": "Lorem",
-            "paragraph": "Usually, systems that require loads of data manipulation and all sorts of computations settle to perform these operations server-side.",
-            "link": "https://drive.google.com/uc?export=view&id=1enx9Pxvd2uSbwaYstEgvXibE1exGS4XP"
+            "title": "TIC - TAC - TOE",
+            "paragraph": "Programmed the Game using Java Swing-based GUI, Collection frameworks, File output and input using Java serialization and Unit tests (JUnit).",
+            "link": "https://drive.google.com/uc?export=view&id=1E1wJFnexAX74C7mhgrMtBwymCsm8m4r7/view?usp=share_link"
         },
         {
-            "img": "https://img.freepik.com/free-vector/hand-drawn-colorful-space-background_52683-12648.jpg?w=740&t=st=1666783055~exp=1666783655~hmac=48e69e02336a0209f1a148a49642b7df8ae7565dda0c2ddedc6138e449688a0a",
-            "title": "Lorem",
-            "paragraph": "Usually, systems that require loads of data manipulation and all sorts of computations settle to perform these operations server-side. ",
+            "img": "https://drive.google.com/uc?export=view&id=1k8_62yRHK2ZRyUcC-IllCkeO8IqGoXMd/view?usp=share_link",
+            "title": "Wallet - Income & Expenses",
+            "paragraph": "Developed a C++ program using object-oriented features to store the information input by the user (incomes and expenses) as a database and calculate the statistics.",
             "link": "https://"
         },
         {
-            "img": "https://img.freepik.com/free-photo/white-painted-wall-texture-background_53876-138197.jpg?w=740&t=st=1666969853~exp=1666970453~hmac=3a01abc57446a31b16fb48b2ac947ecf52b40c6cbb106b8a97fa57d61319f7fa",
-            "title": "Lorem",
-            "paragraph": "Usually, systems that require loads of data manipulation and all sorts of computations settle to perform these operations server-side.",
+            "img": "https://drive.google.com/uc?export=view&id=1yN7FTfyFVorI-U37Kn8Bv9tgPvhln6NL/view?usp=share_link",
+            "title": "Personal Portfolio Website",
+            "paragraph": "Developed a personal portfolio website using Reat JS",
             "link": "https://"
         }
     ],
     "contact": {
         "title": "Send me a message!",
-        "p": "Got a question or proposal, or just want to say hello? Go ahead.",
-        "serviceId": "service_8z3ww3f",
-        "templateId": "template_7f87rfk",
-        "apiKey": "_BbxKljeiM1QrRIOF"
+        "p": "Got a question or proposal, or just want to say hello? Go ahead please.",
+        "serviceId": "service_cq9b6gs",
+        "templateId": "template_3vbmc67",
+        "apiKey": "cI4pOnP80ETp520Od"
     },
     "footer": {
         "email": "arlindbajraktari1@icloud.com",
-        "facebook": "",
-        "linkedIn": "https://",
-        "instagram": "https://",
-        "whatsApp": "https://",
+        "facebook": "https://www.facebook.com/arlind.bajraktari.777/",
+        "linkedIn": "https://www.linkedin.com/in/arlind-bajraktari/",
+        "instagram": "https://instagram.com/arliindbajraktari?igshid=YmMyMTA2M2Y=",
+        "whatsApp": "https://wa.me/+38349639619",
         "copyWrite": "© All rights reserved to Arlind Bajraktari"
     }
 }
