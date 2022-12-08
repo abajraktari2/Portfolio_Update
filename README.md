@@ -3,8 +3,7 @@
         "img": "https://drive.google.com/uc?export=view&id=1gd8Iy8QzD1knp8sAw78bnoMopXlHUWlP",
         "title1": "Welcome",
         "title2": "Arlind Bajraktari",
-        "p": "Computer Engineering Undergraduate",
-        "CVfile": "https://drive.google.com/file/d/1k8_62yRHK2ZRyUcC-IllCkeO8IqGoXMd/view?usp=share_link"
+        "p": "Computer Engineering Undergraduate"
     },
     "about": {
         "img": "https://drive.google.com/uc?export=view&id=1BS9mZlSlplmaOHVebFdDdk47X6K7nWB-",
