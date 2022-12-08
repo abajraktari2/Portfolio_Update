@@ -36,13 +36,13 @@
             "img": "https://drive.google.com/uc?export=view&id=1k8_62yRHK2ZRyUcC-IllCkeO8IqGoXMd",
             "title": "Wallet - Income & Expenses",
             "paragraph": "Developed a C++ program using object-oriented features to store the information input by the user (incomes and expenses) as a database and calculate the statistics.",
-            "link": "https://"
+            "link": "https://drive.google.com/file/d/1iBqmdYLSi6Tn3z9NuFRH8RcARYt5Jopy"
         },
         {
             "img": "https://drive.google.com/uc?export=view&id=1yN7FTfyFVorI-U37Kn8Bv9tgPvhln6NL",
             "title": "Personal Portfolio Website",
-            "paragraph": "Developed a personal portfolio website using Reat JS",
-            "link": "https://"
+            "paragraph": "Developed a personal portfolio website using React JS",
+            "link": "https://drive.google.com/file/d/1KAia4HXBXyyXQ2Vpjh_txFmvu2aAIBjG"
         }
     ],
     "contact": {
@@ -58,6 +58,6 @@
         "linkedIn": "https://www.linkedin.com/in/arlind-bajraktari/",
         "instagram": "https://instagram.com/arliindbajraktari?igshid=YmMyMTA2M2Y=",
         "whatsApp": "https://wa.me/+38349639619",
-        "copyWrite": "© All rights reserved to Arlind"
+        "copyWrite": "© All rights reserved to Arlind Bajraktari"
     }
 }
