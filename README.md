@@ -13,17 +13,17 @@
     },
     "experience": {
         "img": "https://drive.google.com/uc?export=view&id=1gd8Iy8QzD1knp8sAw78bnoMopXlHUWlP",
-        "head": "Meet Ruvejda",
-        "title": "Join the best workplace wellbeing programme",
-        "time": "06.2022 - Current",
-        "ex1": "Under one roof",
-        "p1": "Carefully vetted partners thet offer 500+ experiences",
-        "ex2": "simple",
-        "p2": "One invoice and minimal aden",
-        "ex3": "On budget",
-        "p3": "Pay only for what your team needs",
-        "ex4": "Remote",
-        "p4": "Support your team wherever they are"
+        "head": "KPMG Global Services Hungary",
+        "title": "Client Collaboration Solution Trainee",
+        "time": "06/2022 - Current",
+        "ex1": "Technical Support",
+        "p1": "Technical Support of Global tax technologies",
+        "ex2": "Data Migration",
+        "p2": "Migrating historical data for 80+ clients",
+        "ex3": "Azure",
+        "p3": "Maintaining and administration of client workflows through Azure databases",
+        "ex4": "Bridge implementation",
+        "p4": "Creating clients sites on collaboration platforms"
     },
     "slider": [
         {
