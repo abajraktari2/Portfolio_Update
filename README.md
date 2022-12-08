@@ -54,7 +54,7 @@
     },
     "footer": {
         "email": "arlindbajraktari1@icloud.com",
-        "facebook": "https://www.facebook.com/arlind.bajraktari.777",
+        "facebook": "",
         "linkedIn": "https://",
         "instagram": "https://",
         "whatsApp": "https://",
