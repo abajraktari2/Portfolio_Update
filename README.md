@@ -1,6 +1,6 @@
 {
     "home": {
-        "img": "https://drive.google.com/uc?export=view&id=1yCYGebbpE5gWiQJilNdXEGA-oB5U6E9r",
+        "img": "https://drive.google.com/uc?export=view&id=1yCYGebbpE5gWiQJilNdXEGA",
         "title1": "Welcome",
         "title2": "Arlind Bajraktari",
         "p": "Computer Engineering Undergraduate"
