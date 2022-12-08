@@ -1,6 +1,6 @@
 {
     "home": {
-        "img": "https://drive.google.com/uc?export=view&id=1yCYGebbpE5gWiQJilNdXEGA-oB5U6E9r/view?usp=share_link",
+        "img": "https://drive.google.com/uc?export=view&id=1yCYGebbpE5gWiQJilNdXEGA-oB5U6E9r",
         "title1": "Welcome",
         "title2": "Arlind Bajraktari",
         "p": "Computer Engineering Undergraduate"
@@ -12,7 +12,7 @@
         "githubLink": "https://github.com/abajraktari2"
     },
     "experience": {
-        "img": "https://drive.google.com/uc?export=view&id=1aCkrDvqWsuWfPcahfCy8KBe6O6yAdaiQ/view?usp=share_link",
+        "img": "https://drive.google.com/uc?export=view&id=1aCkrDvqWsuWfPcahfCy8KBe6O6yAdaiQ",
         "head": "KPMG Global Services Hungary",
         "title": "Client Collaboration Solution Trainee",
         "time": "06/2022 - Current",
@@ -33,13 +33,13 @@
             "link": "https://drive.google.com/uc?export=view&id=1E1wJFnexAX74C7mhgrMtBwymCsm8m4r7/view?usp=share_link"
         },
         {
-            "img": "https://drive.google.com/uc?export=view&id=1k8_62yRHK2ZRyUcC-IllCkeO8IqGoXMd/view?usp=share_link",
+            "img": "https://drive.google.com/uc?export=view&id=1k8_62yRHK2ZRyUcC-IllCkeO8IqGoXMd",
             "title": "Wallet - Income & Expenses",
             "paragraph": "Developed a C++ program using object-oriented features to store the information input by the user (incomes and expenses) as a database and calculate the statistics.",
             "link": "https://"
         },
         {
-            "img": "https://drive.google.com/uc?export=view&id=1yN7FTfyFVorI-U37Kn8Bv9tgPvhln6NL/view?usp=share_link",
+            "img": "https://drive.google.com/uc?export=view&id=1yN7FTfyFVorI-U37Kn8Bv9tgPvhln6NL",
             "title": "Personal Portfolio Website",
             "paragraph": "Developed a personal portfolio website using Reat JS",
             "link": "https://"
