@@ -1,6 +1,6 @@
 {
     "home": {
-        "img": "https://drive.google.com/file/d/1yCYGebbpE5gWiQJilNdXEGA-oB5U6E9r/view?usp=share_link",
+        "img": "https://drive.google.com/uc?export=view&id=1yCYGebbpE5gWiQJilNdXEGA-oB5U6E9r",
         "title1": "Welcome",
         "title2": "Arlind Bajraktari",
         "p": "Computer Engineering Undergraduate"
@@ -58,6 +58,6 @@
         "linkedIn": "https://www.linkedin.com/in/arlind-bajraktari/",
         "instagram": "https://instagram.com/arliindbajraktari?igshid=YmMyMTA2M2Y=",
         "whatsApp": "https://wa.me/+38349639619",
-        "copyWrite": "© All rights reserved to Arlind Bajraktari"
+        "copyWrite": "© All rights reserved to Arlind"
     }
 }
